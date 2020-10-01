@@ -1,2 +1,2 @@
 # tripod
-Trying to learn WebAssembly
+Attempt to learn WebAssembly
